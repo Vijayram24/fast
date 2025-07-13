@@ -11,7 +11,6 @@ An AI-powered web application that extracts **body measurements** (shoulder, che
 - 📸 Upload or capture images via webcam.
 - 🤖 AI-powered body landmark detection using **MediaPipe**.
 - 🧮 Converts pixel distances to real-world cm units.
-- 📊 Interactive Bootstrap-based UI with real-time result table.
 - 🔁 Fully asynchronous FastAPI backend.
 - 🗂️ Results are returned as plain CSV and visualized as a table.
 
